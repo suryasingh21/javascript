@@ -158,3 +158,5 @@ console.log(typeof isStudent); // boolean
 console.log(typeof marks);    // undefined
 console.log(typeof fruits);   // object (arrays are objects)
 console.log(typeof student);   // object
+console.log(typeof null);//object
+console.log(typeof undefined);//undefined 
